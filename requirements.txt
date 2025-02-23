@@ -1,4 +1,3 @@
-```plaintext
 openai
 python-dotenv
 streamlit
